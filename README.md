@@ -31,5 +31,3 @@ graph TD
         E -->|FastAPI REST/WebSockets| F[Next.js Command Dashboard]
         G[(Local .mbtiles SQLite)] -->|Vector Maps| F
     end
-📂 Production Folder Structure
-This repository outlines the planned monolithic structure for the build phase:
