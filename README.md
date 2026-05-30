@@ -2,7 +2,7 @@
 
 A decentralized, zero-network location tracking and predictive mapping ecosystem powered by edge AI, LoRa telemetry, and local spatial databases. Built for disaster response and deep-wilderness operations where cellular and cloud infrastructure has failed.
 
-**Team:** Tanjil & Galib
+**Team:** Rifat & Galib
 **Status:** Architectural Phase & Prototyping
 
 ---
